@@ -6,4 +6,7 @@ kheer
 pasta
 chicken pry
 
+beans 
+pizza
+
 thank you
